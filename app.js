@@ -6,6 +6,7 @@ require('dotenv').config();
 const fileUpload = require('express-fileupload');
 const emailRouter = require('./routes/api/email');
 const catalogRouter = require('./routes/api/catalogs');
+const downloadsRouter = require('./routes/api/downloads');
 const app = express();
 
 const formatsLogger = app.get('env') === 'development' ? 'dev' : 'short';
@@ -18,6 +19,8 @@ app.use(fileUpload({ createParentPath: true }));
 
 app.use('/api/email', emailRouter);
 app.use('/api/catalogs', catalogRouter);
+
+app.use('/api/downloads', downloadsRouter);
 
 app.use((req, res) => {
     res.status(404).json({ message: 'Not found' });
