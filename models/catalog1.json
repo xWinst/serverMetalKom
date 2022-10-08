@@ -19,8 +19,15 @@
             "Разборная конструкция;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/pettaBlack.jpg",
-        "additionalImg": ["", ""]
+        "img": "http://localhost:4000/images/petta/pettaBlack.jpg",
+        "additionalImg": [
+            "http://localhost:4000/images/petta/pettaSceneBlack.jpg",
+            "http://localhost:4000/images/petta/pettaSceneGray.jpg",
+            "http://localhost:4000/images/petta/pettaBlack.jpg",
+            "http://localhost:4000/images/petta/pettaGray.jpg",
+            "http://localhost:4000/images/petta/pettаRed.jpg",
+            "http://localhost:4000/images/petta/pettaWithTable.jpg"
+        ]
     },
     {
         "id": "1.2",
@@ -41,8 +48,15 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/spiderMiniBlack.jpg",
-        "additionalImg": ["", ""]
+        "img": "http://localhost:4000/images/spiderMini/spiderMiniBlack.jpg",
+        "additionalImg": [
+            "http://localhost:4000/images/spiderMini/spiderMiniSceneBlack.jpg",
+            "http://localhost:4000/images/spiderMini/spiderMiniSceneBlack2.jpg",
+            "http://localhost:4000/images/spiderMini/spiderMiniBlack.jpg",
+            "http://localhost:4000/images/spiderMini/spiderMiniGray.jpg",
+            "http://localhost:4000/images/spiderMini/spiderMiniRed.jpg",
+            "http://localhost:4000/images/spiderMini/spiderMiniWithTable.jpg"
+        ]
     },
     {
         "id": "1.3",
@@ -64,8 +78,15 @@
             "Разборная конструкция;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/kvadroBlack.jpg",
-        "additionalImg": ["", ""]
+        "img": "http://localhost:4000/images/kvadro/kvadroBlack.jpg",
+        "additionalImg": [
+            "http://localhost:4000/images/kvadro/kvadroSceneBlack.jpg",
+            "http://localhost:4000/images/kvadro/kvadroSceneBlack2.jpg",
+            "http://localhost:4000/images/kvadro/kvadroBlack.jpg",
+            "http://localhost:4000/images/kvadro/kvadroGray.jpg",
+            "http://localhost:4000/images/kvadro/kvadroRed.jpg",
+            "http://localhost:4000/images/kvadro/kvadroWithTableBlack.jpg"
+        ]
     },
     {
         "id": "1.4",
@@ -86,8 +107,12 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/kvadroDubleBlack.jpg",
-        "additionalImg": ["", ""]
+        "img": "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack.jpg",
+        "additionalImg": [
+            "http://localhost:4000/images/kvadroDouble/kvadroDoubleSceneBlack.jpg",
+            "http://localhost:4000/images/kvadroDouble/kvadroDoubleSceneBlack2.jpg",
+            "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack.jpg"
+        ]
     },
     {
         "id": "1.5",
@@ -108,7 +133,7 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/koloBlack.jpg",
+        "img": "http://localhost:4000/images/kolo/koloBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
