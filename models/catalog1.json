@@ -111,7 +111,9 @@
         "additionalImg": [
             "http://localhost:4000/images/kvadroDouble/kvadroDoubleSceneBlack.jpg",
             "http://localhost:4000/images/kvadroDouble/kvadroDoubleSceneBlack2.jpg",
-            "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack.jpg"
+            "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack.jpg",
+            "http://localhost:4000/images/kvadroDouble/kvadroDoubleRed.jpg",
+            "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack2.jpg"
         ]
     },
     {
@@ -134,7 +136,12 @@
         ],
         "RAL": [9016, 9006, 9005, 7016],
         "img": "http://localhost:4000/images/kolo/koloBlack.jpg",
-        "additionalImg": ["", ""]
+        "additionalImg": [
+            "http://localhost:4000/images/kolo/koloSceneBlack.jpg",
+            "http://localhost:4000/images/kolo/koloSceneGray.jpg",
+            "http://localhost:4000/images/kolo/koloBlack.jpg",
+            "http://localhost:4000/images/kolo/koloBlackWithTable.jpg"
+        ]
     },
     {
         "id": "1.6",
@@ -154,7 +161,11 @@
             "Опора крепится дюбелями к полу;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/koloMiniBlack.jpg",
-        "additionalImg": [""]
+        "img": "http://localhost:4000/images/koloMini/koloMiniBlack.jpg",
+        "additionalImg": [
+            "http://localhost:4000/images/koloMini/koloMiniSceneBlack.jpg",
+            "http://localhost:4000/images/koloMini/koloMiniBlack.jpg",
+            "http://localhost:4000/images/koloMini/koloMiniRed.jpg"
+        ]
     }
 ]
