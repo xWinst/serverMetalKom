@@ -19,8 +19,8 @@ app.use(fileUpload({ createParentPath: true }));
 
 app.use('/api/email', emailRouter);
 app.use('/api/catalogs', catalogRouter);
-
 app.use('/api/downloads', downloadsRouter);
+app.use('/images', express.static('./images'));
 
 app.use((req, res) => {
     res.status(404).json({ message: 'Not found' });

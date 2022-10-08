@@ -19,7 +19,7 @@
             "Ширина каркаса может быть до 2000 мм. Определяется длинной траверсы"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/highBlackWhite.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -39,7 +39,7 @@
             "Ширина каркаса может быть до 2000 мм. Определяется длинной траверсы"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/highEkoBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -85,7 +85,7 @@
             "Под СТОЛЕШНИЦУ 600Х1200 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/spiderBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -105,7 +105,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/pariPBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -145,7 +145,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/pariTBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -165,7 +165,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/pariPlusPBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -185,7 +185,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/pariPlusQBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -205,7 +205,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/pariPlusTBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -224,7 +224,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/stillPBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -243,7 +243,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/stillQBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -262,7 +262,7 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/stillTBlack.jpg",
         "additionalImg": ["", ""]
     },
     {

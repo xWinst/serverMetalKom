@@ -19,7 +19,7 @@
             "Разборная конструкция;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/pettaBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -41,7 +41,7 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/spiderMiniBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -64,7 +64,7 @@
             "Разборная конструкция;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/kvadroBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -86,7 +86,7 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/kvadroDubleBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -108,7 +108,7 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/koloBlack.jpg",
         "additionalImg": ["", ""]
     },
     {
@@ -129,7 +129,7 @@
             "Опора крепится дюбелями к полу;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "",
+        "img": "http://localhost:4000/images/koloMiniBlack.jpg",
         "additionalImg": [""]
     }
 ]
