@@ -18,6 +18,7 @@ router.post('/upload', async (req, res, next) => {
         res.json({ fileName: file.name, filePath: `/upload/${fileName}` });
         filePath = path.join(__dirname, `/upload/${fileName}`);
     });
+    res.status(201).json({ messages: 'File upload' });
 });
 
 router.post('/', (req, res, next) => {
@@ -60,6 +61,7 @@ router.post('/', (req, res, next) => {
         .catch(err => console.log('err', err));
 
     if (fileName) fs.rm(filePath, err => res.status(500).send(err));
+    res.status(201).json({ messages: 'Email sent' });
 });
 
 module.exports = router;

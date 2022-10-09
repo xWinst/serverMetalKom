@@ -15,19 +15,19 @@
             "Н - 725 мм"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/hedgehog/2-min.jpg",
+        "img": "https://metalkom.herokuapp.com/images/hedgehog/2-min.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/hedgehog/2-min.jpg",
-            "http://localhost:4000/images/hedgehog/3-min.jpg",
-            "http://localhost:4000/images/hedgehog/5-min.jpg",
-            "http://localhost:4000/images/hedgehog/8-min.jpg",
-            "http://localhost:4000/images/hedgehog/1-min.jpg",
-            "http://localhost:4000/images/hedgehog/4-min.jpg",
-            "http://localhost:4000/images/hedgehog/10-min.jpg",
-            "http://localhost:4000/images/hedgehog/7-min.jpg",
-            "http://localhost:4000/images/hedgehog/6-min.jpg",
-            "http://localhost:4000/images/hedgehog/9-min.jpg",
-            "http://localhost:4000/images/hedgehog/11-min.jpg"
+            "https://metalkom.herokuapp.com/images/hedgehog/2-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/3-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/5-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/8-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/1-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/4-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/10-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/7-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/6-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/9-min.jpg",
+            "https://metalkom.herokuapp.com/images/hedgehog/11-min.jpg"
         ]
     }
 ]

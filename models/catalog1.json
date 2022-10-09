@@ -19,14 +19,14 @@
             "Разборная конструкция;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/petta/pettaBlack.jpg",
+        "img": "https://metalkom.herokuapp.com/images/petta/pettaBlack.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/petta/pettaSceneBlack.jpg",
-            "http://localhost:4000/images/petta/pettaSceneGray.jpg",
-            "http://localhost:4000/images/petta/pettaBlack.jpg",
-            "http://localhost:4000/images/petta/pettaGray.jpg",
-            "http://localhost:4000/images/petta/pettаRed.jpg",
-            "http://localhost:4000/images/petta/pettaWithTable.jpg"
+            "https://metalkom.herokuapp.com/images/petta/pettaSceneBlack.jpg",
+            "https://metalkom.herokuapp.com/images/petta/pettaSceneGray.jpg",
+            "https://metalkom.herokuapp.com/images/petta/pettaBlack.jpg",
+            "https://metalkom.herokuapp.com/images/petta/pettaGray.jpg",
+            "https://metalkom.herokuapp.com/images/petta/pettаRed.jpg",
+            "https://metalkom.herokuapp.com/images/petta/pettaWithTable.jpg"
         ]
     },
     {
@@ -48,14 +48,14 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/spiderMini/spiderMiniBlack.jpg",
+        "img": "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniBlack.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/spiderMini/spiderMiniSceneBlack.jpg",
-            "http://localhost:4000/images/spiderMini/spiderMiniSceneBlack2.jpg",
-            "http://localhost:4000/images/spiderMini/spiderMiniBlack.jpg",
-            "http://localhost:4000/images/spiderMini/spiderMiniGray.jpg",
-            "http://localhost:4000/images/spiderMini/spiderMiniRed.jpg",
-            "http://localhost:4000/images/spiderMini/spiderMiniWithTable.jpg"
+            "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniSceneBlack.jpg",
+            "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniSceneBlack2.jpg",
+            "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniBlack.jpg",
+            "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniGray.jpg",
+            "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniRed.jpg",
+            "https://metalkom.herokuapp.com/images/spiderMini/spiderMiniWithTable.jpg"
         ]
     },
     {
@@ -78,14 +78,14 @@
             "Разборная конструкция;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/kvadro/kvadroBlack.jpg",
+        "img": "https://metalkom.herokuapp.com/images/kvadro/kvadroBlack.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/kvadro/kvadroSceneBlack.jpg",
-            "http://localhost:4000/images/kvadro/kvadroSceneBlack2.jpg",
-            "http://localhost:4000/images/kvadro/kvadroBlack.jpg",
-            "http://localhost:4000/images/kvadro/kvadroGray.jpg",
-            "http://localhost:4000/images/kvadro/kvadroRed.jpg",
-            "http://localhost:4000/images/kvadro/kvadroWithTableBlack.jpg"
+            "https://metalkom.herokuapp.com/images/kvadro/kvadroSceneBlack.jpg",
+            "https://metalkom.herokuapp.com/images/kvadro/kvadroSceneBlack2.jpg",
+            "https://metalkom.herokuapp.com/images/kvadro/kvadroBlack.jpg",
+            "https://metalkom.herokuapp.com/images/kvadro/kvadroGray.jpg",
+            "https://metalkom.herokuapp.com/images/kvadro/kvadroRed.jpg",
+            "https://metalkom.herokuapp.com/images/kvadro/kvadroWithTableBlack.jpg"
         ]
     },
     {
@@ -107,13 +107,13 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack.jpg",
+        "img": "https://metalkom.herokuapp.com/images/kvadroDouble/kvadroDoubleBlack.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/kvadroDouble/kvadroDoubleSceneBlack.jpg",
-            "http://localhost:4000/images/kvadroDouble/kvadroDoubleSceneBlack2.jpg",
-            "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack.jpg",
-            "http://localhost:4000/images/kvadroDouble/kvadroDoubleRed.jpg",
-            "http://localhost:4000/images/kvadroDouble/kvadroDoubleBlack2.jpg"
+            "https://metalkom.herokuapp.com/images/kvadroDouble/kvadroDoubleSceneBlack.jpg",
+            "https://metalkom.herokuapp.com/images/kvadroDouble/kvadroDoubleSceneBlack2.jpg",
+            "https://metalkom.herokuapp.com/images/kvadroDouble/kvadroDoubleBlack.jpg",
+            "https://metalkom.herokuapp.com/images/kvadroDouble/kvadroDoubleRed.jpg",
+            "https://metalkom.herokuapp.com/images/kvadroDouble/kvadroDoubleBlack2.jpg"
         ]
     },
     {
@@ -135,12 +135,12 @@
             "Опора укомплектована регулируемыми ножками, для нивелирования неровностей пола;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/kolo/koloBlack.jpg",
+        "img": "https://metalkom.herokuapp.com/images/kolo/koloBlack.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/kolo/koloSceneBlack.jpg",
-            "http://localhost:4000/images/kolo/koloSceneGray.jpg",
-            "http://localhost:4000/images/kolo/koloBlack.jpg",
-            "http://localhost:4000/images/kolo/koloBlackWithTable.jpg"
+            "https://metalkom.herokuapp.com/images/kolo/koloSceneBlack.jpg",
+            "https://metalkom.herokuapp.com/images/kolo/koloSceneGray.jpg",
+            "https://metalkom.herokuapp.com/images/kolo/koloBlack.jpg",
+            "https://metalkom.herokuapp.com/images/kolo/koloBlackWithTable.jpg"
         ]
     },
     {
@@ -161,11 +161,11 @@
             "Опора крепится дюбелями к полу;"
         ],
         "RAL": [9016, 9006, 9005, 7016],
-        "img": "http://localhost:4000/images/koloMini/koloMiniBlack.jpg",
+        "img": "https://metalkom.herokuapp.com/images/koloMini/koloMiniBlack.jpg",
         "additionalImg": [
-            "http://localhost:4000/images/koloMini/koloMiniSceneBlack.jpg",
-            "http://localhost:4000/images/koloMini/koloMiniBlack.jpg",
-            "http://localhost:4000/images/koloMini/koloMiniRed.jpg"
+            "https://metalkom.herokuapp.com/images/koloMini/koloMiniSceneBlack.jpg",
+            "https://metalkom.herokuapp.com/images/koloMini/koloMiniBlack.jpg",
+            "https://metalkom.herokuapp.com/images/koloMini/koloMiniRed.jpg"
         ]
     }
 ]
