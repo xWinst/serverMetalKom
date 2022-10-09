@@ -12,13 +12,13 @@ router.post('/upload', async (req, res, next) => {
     fileName = encodeURI(file.name);
     file.mv(`${__dirname}/upload/${fileName}`, err => {
         if (err) {
-            console.error(err);
+            console.error('err', err);
             return res.status(500).send(err);
         }
         res.json({ fileName: file.name, filePath: `/upload/${fileName}` });
         filePath = path.join(__dirname, `/upload/${fileName}`);
     });
-    // res.status(201).json({ messages: 'File upload' });
+    res.status(201).json({ messages: 'File upload' });
 });
 
 router.post('/', (req, res, next) => {
