@@ -15,10 +15,13 @@ router.post('/upload', async (req, res, next) => {
             console.error('err', err);
             return res.status(500).send(err);
         }
-        res.json({ fileName: file.name, filePath: `/upload/${fileName}` });
         filePath = path.join(__dirname, `/upload/${fileName}`);
+        res.json({
+            messages: 'File upload',
+            fileName: file.name,
+            filePath: `/upload/${fileName}`,
+        });
     });
-    res.status(201).json({ messages: 'File upload' });
 });
 
 router.post('/', (req, res, next) => {
@@ -46,8 +49,6 @@ router.post('/', (req, res, next) => {
         Текст повідомлення: ${text || 'клієнт не залишив повідомлення'}`,
     };
 
-    console.log('filePath: ', filePath);
-    console.log('fileName: ', fileName);
     if (fileName) {
         emailOptions.attachments = [
             {
@@ -59,11 +60,19 @@ router.post('/', (req, res, next) => {
 
     transporter
         .sendMail(emailOptions)
-        .then(info => console.log('info', info))
+        .then(info => {
+            console.log('info', info);
+            res.status(201).json({ messages: 'Email sent' });
+        })
         .catch(err => console.log('err', err));
 
-    if (fileName) fs.rm(filePath, err => res.status(500).send(err));
-    res.status(201).json({ messages: 'Email sent' });
+    if (fileName)
+        fs.rm(filePath, err => {
+            if (err) {
+                console.error('err', err);
+                return res.status(500).send(err);
+            }
+        });
 });
 
 module.exports = router;
