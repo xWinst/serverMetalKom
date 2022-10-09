@@ -18,7 +18,7 @@ router.post('/upload', async (req, res, next) => {
         res.json({ fileName: file.name, filePath: `/upload/${fileName}` });
         filePath = path.join(__dirname, `/upload/${fileName}`);
     });
-    res.status(201).json({ messages: 'File upload' });
+    // res.status(201).json({ messages: 'File upload' });
 });
 
 router.post('/', (req, res, next) => {
