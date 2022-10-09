@@ -46,6 +46,8 @@ router.post('/', (req, res, next) => {
         Текст повідомлення: ${text || 'клієнт не залишив повідомлення'}`,
     };
 
+    console.log('filePath: ', filePath);
+    console.log('fileName: ', fileName);
     if (fileName) {
         emailOptions.attachments = [
             {
